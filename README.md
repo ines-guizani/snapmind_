@@ -31,6 +31,8 @@ Thank you for your attention .
 - Flutter
 - Dart
 
+![alt text](image-1.png)
+
 ## ⚡ Installation
 ```bash
 flutter pub get
